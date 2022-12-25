@@ -5,3 +5,5 @@ Use the preview.html file to preview your prototype offline as you would in the 
 If you have the skills to customize the code you can edit the preview.html file to change the look and feel of the preview page.
 
 We strongly suggest you make no changes to the files in the /src folder.
+
+Link to webpage: https://00mila00.github.io/Twoje_korepetycje_prototype/
